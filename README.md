@@ -1,7 +1,7 @@
 ## Hello World!
 
 <code style='color: red'>**l0wdin@github:/# whoami_**</code> <br> 
-Meu nome é Luis Filipe, sou formado em Ciência da Computação e atualmente estou me especializando em CyberSecurity com ênfase em Segurança Ofensiva / PenTest.
+<code>**l0wdin@github:/#** Meu nome é Luis Filipe, sou formado em Ciência da Computação, hoje trabalho diretamente com Infraestrutura e estou me especializando em CyberSecurity com ênfase em Segurança Ofensiva / PenTest.</code>
 
 Aqui vou listar alguns tópicos de tecnologias, linguagens, coisas que já utilizei/utilizo.
 
