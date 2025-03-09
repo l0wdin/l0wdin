@@ -31,9 +31,9 @@ Aqui vou listar alguns tópicos de tecnologias, linguagens, coisas que já utili
 
 ---
 **Certificações:**<br>
-[![DCPT](https://img.shields.io/badge/DCPT%20--%20Desec%20Cert.%20Penetration%20Tester-In%20Progress-Yellow)]()
+[![DCPT](https://img.shields.io/badge/DCPT%20--%20Desec%20Cert.%20Penetration%20Tester-In%20Progress-yellow)]()
 <br>
-[![AWS](https://img.shields.io/badge/AWS%20--%20Certified%20Cloud%20Practitioner-Not%20started%20yet-white)]()
+[![AWS](https://img.shields.io/badge/AWS%20--%20Certified%20Cloud%20Practitioner-Done-Green)]()
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/lowdin.png" alt="TryHackMe">
 
