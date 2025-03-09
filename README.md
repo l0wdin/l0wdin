@@ -26,7 +26,6 @@ Aqui vou listar alguns tópicos de tecnologias, linguagens, coisas que já utili
 <sub>**Conheço porém aprofundando:**</sub><br>
 [![JS](https://img.shields.io/badge/-JavaScript-F0D81E?style=flat&logo=javascript&logoColor=black)]()
 [![C](https://img.shields.io/badge/-C-26A3E9?style=flat&logo=C&logoColor=white)]()
-[![Node](https://img.shields.io/badge/-Node.JS-94c746?style=flat&logo=node.js&logoColor=black)]()
 
 
 ---
