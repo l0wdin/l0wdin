@@ -34,6 +34,6 @@
 
 ---
 [![HackTheBox - Lowdin](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019dac68-aef0-7278-a799-dcf0acdf3fc8)
-[![TryHackMe - Lowdin](https://tryhackme-badges.s3.amazonaws.com/lowdin.png)](https://tryhackme.com/p/lowdin)
+[![TryHackMe - Lowdin](https://img.shields.io/badge/-TryhackMe-6e1400?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/lowdin)
 
 
